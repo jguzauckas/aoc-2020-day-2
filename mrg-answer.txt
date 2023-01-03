@@ -1,0 +1,2 @@
+393 passwords are valid according to their policies.
+690 passwords are valid according to the new interpretation of their policies.
